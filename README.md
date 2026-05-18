@@ -2,6 +2,10 @@
 
 Este repositorio contiene los archivos de diseño (STL e IGS) del proyecto **"Bipedestador, un paso más en la inclusión"**. Es una iniciativa de innovación aplicada orientada a mejorar la calidad de vida y la participación en el aula de personas con movilidad reducida.
 
+<p align="center">
+  <img src="./media/Bipedestador.jpeg" width="300" alt="Logo Ministerio de Educación y Formación Profesional">
+</p>
+
 ---
 
 ## 🏛️ Institución y Financiación
