@@ -54,6 +54,15 @@ En este repositorio encontrarás los archivos necesarios para la replicación y 
 
 Este es un proyecto de **código abierto (Open Source)**. El objetivo es que estos archivos sean libres para cualquier persona, centro educativo o institución que necesite fabricar o mejorar este dispositivo para ayudar a colectivos con necesidades especiales.
 
+Todo el material de este repositorio se distribuye bajo la licencia **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**.
+
+<p align="center">
+  <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">    <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="Licencia Creative Commons" width="120">
+  </a>
+  <br>
+  <span>Esta obra está bajo una <a href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.</span>
+</p>
+
 ---
 
 ## 🤝 Agradecimientos
