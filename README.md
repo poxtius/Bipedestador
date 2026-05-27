@@ -80,6 +80,6 @@ Agradecemos especialmente a **Josune y Udane** por ser la inspiración y el moto
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="./media/aprecamex.jpg" width="150" alt="Aprecamex">
+    <img src="./media/aprecamex.jpg" width="100" alt="Aprecamex">
   </a>
 </p>
