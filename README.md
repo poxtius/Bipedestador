@@ -71,6 +71,11 @@ Agradecemos especialmente a **Josune y Udane** por ser la inspiración y el moto
 
 ---
 <p align="center">
-  <img src="./media/LSB.png" width="150">
-  <img src="./media/IESSTC.jpg" width="150">
+  <a href="https://lhfp.lasalleberrozpe.eus/?lang=es" target="_blank" rel="noopener noreferrer">
+    <img src="./media/LSB.png" width="150" alt="Logo La Salle Berrozpe">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://iessluciatrampal.educarex.es" target="_blank" rel="noopener noreferrer">
+    <img src="./media/IESSTC.jpg" width="150" alt="Logo IES Santa Lucía del Trampal">
+  </a>
 </p>
