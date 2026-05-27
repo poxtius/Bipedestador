@@ -78,4 +78,8 @@ Agradecemos especialmente a **Josune y Udane** por ser la inspiración y el moto
   <a href="https://iessluciatrampal.educarex.es" target="_blank" rel="noopener noreferrer">
     <img src="./media/IESSTC.jpg" width="150" alt="Logo IES Santa Lucía del Trampal">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a>
+    <img src="./media/aprecamex.jpg" width="150" alt="Aprecamex">
+  </a>
 </p>
